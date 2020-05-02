@@ -1,3 +1,4 @@
+sh setup.sh;
 ./pget xvfb;
 ./pget xauth;
 ./pget xhost;
