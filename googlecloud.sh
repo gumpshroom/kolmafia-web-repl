@@ -1,5 +1,5 @@
 sh setup.sh;
-chmod +x pget;
+chmod +x ./pget;
 ./pget xvfb;
 ./pget xauth;
 ./pget xhost;
