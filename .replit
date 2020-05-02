@@ -1,2 +1,2 @@
-language = "java8"
+language = "java1.8"
 run = "java -jar webswing-server.war -j jetty.properties"
